@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Custom-Sidebar/static/css/main.0b09eab8.css",
+    "main.js": "/React-Custom-Sidebar/static/js/main.146e989f.js",
+    "static/media/logo.svg": "/React-Custom-Sidebar/static/media/logo.77646688f32f3fd707913e06fee83eaa.svg",
+    "index.html": "/React-Custom-Sidebar/index.html",
+    "static/media/sceduled.svg": "/React-Custom-Sidebar/static/media/sceduled.581f6358c6805f3526b541631cd43f8b.svg",
+    "static/media/social.svg": "/React-Custom-Sidebar/static/media/social.90efc33f513f2c9b785ce4412cbc917e.svg",
+    "static/media/home-solid.svg": "/React-Custom-Sidebar/static/media/home-solid.831db11df61127740a8d5f67fb8952cb.svg",
+    "static/media/power-off-solid.svg": "/React-Custom-Sidebar/static/media/power-off-solid.64f21014c828ee1ee201f3a796f884df.svg",
+    "static/media/draft.svg": "/React-Custom-Sidebar/static/media/draft.cbc488ec750666825d8a9b5e319bdead.svg",
+    "static/media/starred.svg": "/React-Custom-Sidebar/static/media/starred.3f5eb997d90860946b7a4f3e38088eb4.svg",
+    "main.0b09eab8.css.map": "/React-Custom-Sidebar/static/css/main.0b09eab8.css.map",
+    "main.146e989f.js.map": "/React-Custom-Sidebar/static/js/main.146e989f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b09eab8.css",
+    "static/js/main.146e989f.js"
+  ]
+}
